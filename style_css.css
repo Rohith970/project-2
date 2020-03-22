@@ -1,0 +1,141 @@
+nav 
+{
+	list-style-type:none;
+
+}
+.header{
+	border-bottom: 40px solid;
+	padding-bottom: 1px;
+
+}
+.head1 li 
+{
+	display: block;
+	padding:10px 10px;
+	
+	float:left;
+}
+.head2 li 
+{
+	display: block;
+	padding:10px 20px;
+
+	float:right;
+}
+	li a:hover{
+		color:red;
+	}
+li a{
+	color:silver;
+	text-decoration: none;
+}
+.backgroundi{
+	padding-top:10px;
+	margin:0px;
+	background-image:url('intro-bg_1.jpg');
+	height:100vh;
+	background-position: center;
+	background-size: cover;
+
+}
+.shop
+{
+	background-color:rgba(0,0,0,0.2);
+	text-align:center;
+	color:white;
+	width:500px;
+	margin-left:400px;
+	padding:30px;
+	margin-top:240px;
+	border-radius:5px;
+	padding-bottom:30p;
+	
+
+}
+button{
+background-color: red;
+border:0px;
+border-radius: 5px;
+padding:10px;
+}
+
+.backgroundi h1{
+	text-align: center;
+}
+.backgroundi h2{
+	text-align: center;
+}
+.camera
+{
+margin-left:100px;
+float:left;
+padding:10px;
+border:1px solid;
+
+
+}
+.camera h1
+{
+	text-align: center;
+	font-size: 27px;
+	font-weight: solid;
+}
+.camera h2 
+{
+	font-size:15px;
+	font-weight: lighter;
+	text-align: center;
+}
+.watch
+{
+	float:left;
+	margin-left:80px;
+    padding:10px;
+    border:1px solid;
+
+}
+.watch h1
+{
+	text-align: center;
+	font-size: 27px;
+	font-weight: solid;
+}
+.watch h2 
+{
+	font-size:15px;
+	font-weight: lighter;
+	text-align: center;
+}
+.shirts
+{
+	float:right;
+	margin-right:100px;
+    padding:10px;
+    border:1px solid;
+
+}
+.shirts h1
+{
+	text-align: center;
+	font-size: 27px;
+	font-weight: solid;
+}
+.shirts h2 
+{
+	font-size:15px;
+	font-weight: lighter;
+	text-align: center;
+}
+.foot
+{
+	width:100%;
+	color:silver;
+	float:left;
+	background-color:black;
+	text-align:center;
+	margin-top:20px;
+}
+.shop button:hover{
+	background-color:white;
+
+}
